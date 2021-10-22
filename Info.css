@@ -1,0 +1,22 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 538px;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: 90px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 360px;
+  height: 90px;
+  animation-duration: 1750ms;
+  margin: 38px auto 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 85px;
+  }
+}
